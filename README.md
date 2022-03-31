@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Jay Vaishnav</h1>
 <h3 align="center">A passionate Software Engineering student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayaadhav10&label=Profile%20views&color=0e75b6&style=flat" alt="ajayaadhav10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayvaishnav01&label=Profile%20views&color=0e75b6&style=flat" alt="jayvaishnav01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavjay01" alt="vaishnavjay01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayvaishnav01" alt="jayvaishnav01" /></a> </p>
 
 
 
